@@ -1,5 +1,5 @@
 ### Hi there 👋 My name is Nathan Chan!
-I am a 3rd year CS student at UBC
+I am a 4rd year Computer Science student at UBC and I'm also doing a Data Science Minor.
 
 <!--
 **nchan315/nchan315** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
